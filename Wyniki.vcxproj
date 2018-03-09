@@ -115,6 +115,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="patrole.txt" />
+    <Text Include="konkurencje.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dane.h" />
+    <ClInclude Include="Rajd.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

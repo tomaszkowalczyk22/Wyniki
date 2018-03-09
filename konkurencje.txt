@@ -1,0 +1,8 @@
+10
+bieganie 1
+skakanie 1
+plywanie 1
+czolganie 1
+ruchanie 1
+spanie 2
+umieranie 10
